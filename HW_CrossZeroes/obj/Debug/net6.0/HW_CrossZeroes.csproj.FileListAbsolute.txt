@@ -1,0 +1,15 @@
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\bin\Debug\net6.0\HW_CrossZeroes.exe
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\bin\Debug\net6.0\HW_CrossZeroes.deps.json
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\bin\Debug\net6.0\HW_CrossZeroes.runtimeconfig.json
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\bin\Debug\net6.0\HW_CrossZeroes.dll
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\bin\Debug\net6.0\HW_CrossZeroes.pdb
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\HW_CrossZeroes.csproj.AssemblyReference.cache
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\HW_CrossZeroes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\HW_CrossZeroes.AssemblyInfoInputs.cache
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\HW_CrossZeroes.AssemblyInfo.cs
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\HW_CrossZeroes.csproj.CoreCompileInputs.cache
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\HW_CrossZeroes.dll
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\refint\HW_CrossZeroes.dll
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\HW_CrossZeroes.pdb
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\HW_CrossZeroes.genruntimeconfig.cache
+C:\Users\Fedor\Desktop\C#\HW_CrossZeroes\obj\Debug\net6.0\ref\HW_CrossZeroes.dll
